@@ -109,7 +109,7 @@ java-oops-complete
 
 ## ⭐ Goal
 
-Build one of the most detailed Java OOP repositories on GitHub.
+-Build one of the most detailed Java OOP repositories on GitHub.
 
 
 To make this repository stand out on GitHub and during interviews:
